@@ -21,6 +21,4 @@ print("Thank you for your information! I hope you enjoy using this application f
 #age restriction applications, or maybe just like a social media profile...
 #thanks for stopping by!
 #getting better at Python!
-
-##You might want to create a database if you want peoples
-##info to be collected and save if its for the long term...
+"""You might want to create a database if you want peoples info to be collected and save if its for the long term..."""
