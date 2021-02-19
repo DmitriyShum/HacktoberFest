@@ -17,8 +17,8 @@ print("Information we got from you so far: Your name is, ", name, "and you were 
 print("Thank you for your information! I hope you enjoy using this application further!")
 
 
-#Just a little template to use for maybe:
-#age restriction applications, or maybe just like a social media profile...
-#thanks for stopping by!
-#getting better at Python!
-"""You might want to create a database if you want peoples info to be collected and save if its for the long term..."""
+"""Just a little template to use for maybe:
+age restriction applications, or maybe just like a social media profile...
+thanks for stopping by!
+getting better at Python!
+You might want to create a database if you want peoples info to be collected and saved if its for the long term..."""
